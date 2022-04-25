@@ -1,6 +1,6 @@
 # Crypto-Currency-Market
 
-Crypto-Currency-Market build with ReactJS
+Portfolio build with ReactJS
 
 Language's:
 Javascript (ReactJS)
