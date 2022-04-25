@@ -5,7 +5,10 @@
     justify-content: center;
     align-items: baseline;
     padding: 1em;
-    margin-bottom: 2em;
-    background-color: #f2a900;
+    background-color: rgb(129, 18, 219);
     color: #fff;
-  } 
+}
+
+.H1Title:hover {
+  color: #303030;
+}

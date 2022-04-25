@@ -1,12 +1,13 @@
 import React from 'react'
-import '../Title.css'
+import './Title.css';
 
 function Title() {
-    return (
-        <div className='Title'>
-            <img src='bitcoin.png' alt='bitcoin' width='300px'></img>
-        </div>
-    )
+
+  return (
+    <div className='Title'>
+        <h1 className='H1Title'>Mirza Selimovic</h1>
+    </div>
+  )
 }
 
-export default Title
+export default Title;

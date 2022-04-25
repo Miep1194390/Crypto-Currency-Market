@@ -1,0 +1,30 @@
+.Header {
+  padding: 5%;
+  width: 100%;
+  display: flex;
+}
+
+.HeadH1 {
+  color: rgb(129, 18, 219);
+  font-size: 25px;
+  padding-left: 10%;
+}
+
+.HeadH2 {
+  color: white;
+  font-size: 15px;
+  padding-left: 10%;
+}
+
+.HeadReversed {
+  color: rgb(129, 18, 219);
+  transform: scaleX(-1);
+  font-size: 25px;
+}
+
+img {
+  width: 10%;
+  height: 10%;
+  border-radius: 10px;
+  box-shadow: 5px 10px #111111;
+}

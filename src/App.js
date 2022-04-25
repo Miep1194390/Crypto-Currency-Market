@@ -1,16 +1,17 @@
+import React from "react";
+import "./App.css";
 import Title from './components/Title';
-import React from 'react';
-import './index.css';
-import BitcoinPrice from './components/BitcoinPrice';
+import TopContext from "./components/TopContext";
+import PersonalInfo from "./components/PersonalInfo";
+
 
 function App() {
   return (
-    <div className='App'>
+    <div className="App">
       <Title></Title>
-      <BitcoinPrice></BitcoinPrice>
-      
+      <TopContext></TopContext>
+      <PersonalInfo></PersonalInfo>
     </div>
   );
 }
-
 export default App;
