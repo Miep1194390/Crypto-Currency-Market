@@ -3,8 +3,8 @@ h1 {
 }
 
 .Main2 {
-    background-color: rgb(23,23,23);
-    height: 79.5vh;
+    background-color: rgb(85,85,85);
+    height: 100vh;
     display: flex;
     justify-content: center;
 }
@@ -21,3 +21,4 @@ h1 {
     height: 100%;
     align-items: center;
 }
+

@@ -50,6 +50,7 @@
 .OuterQuotes {
     display: flex;
     justify-content: center;
+    padding: 5%;
 }
 
 .InnerImageQuotes {
