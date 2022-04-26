@@ -4,6 +4,7 @@ import Title from './components/Title';
 import TopContext from "./components/TopContext";
 import PersonalInfo from "./components/PersonalInfo";
 import Quote from "./components/Quote";
+import Languages from "./components/Languages";
 
 
 function App() {
@@ -11,8 +12,10 @@ function App() {
     <div className="App">
       <Title></Title>
       <TopContext></TopContext>
-      <PersonalInfo></PersonalInfo>
       <Quote></Quote>
+      <PersonalInfo></PersonalInfo>
+      <Languages></Languages>
+      
     </div>
   );
 }

@@ -1,19 +1,23 @@
+@import url('http://fonts.cdnfonts.com/css/mallory');
+
 .Main3 {
-    background-color: #303030;
-    height: 80vh;
+    background-color: rgb(85,85,85);
+    height: 100%;
     display: flex;
     justify-content: center;
+    padding: 5%;
 }
 
 
 .H1Quote {
     color: rgb(66,141,251);
     text-shadow: #0e0e0e 10px 0 10px; 
-    font-size: 194px;
+    font-size: 221px;
     display: flex;
     justify-content: left;
     font-family: "Mallory", sans-serif;
     align-items: center;
+    line-height: 0.8;
 }
 
 .H2Quote {
@@ -33,10 +37,11 @@
     color: rgb(66,141,251);
     text-shadow: #0e0e0e 10px 0 10px; 
     font-family: "Mallory", sans-serif;
-    font-size: 120px;
+    font-size: 201px;
     display: flex;
     justify-content: left;
     align-items: center;
+    line-height: 0.8;
 }
 
 .H3Quote:hover, .H1Quote:hover {
@@ -47,15 +52,10 @@
     background-color: white;
 }
 
-.OuterQuotes {
-    display: flex;
-    justify-content: center;
-    padding: 5%;
+.HOuter {
+    margin-top: -18%;
 }
 
-.InnerImageQuotes {
-    padding: 5%;
-}
 
 
 
