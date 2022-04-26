@@ -25,9 +25,9 @@
   text-shadow: #0e0e0e 10px 0 10px; 
 }
 
-img {
+.TopContextImg {
   width: 10%;
   height: 10%;
   border-radius: 10px;
-  box-shadow: 5px 10px #111111;
+  box-shadow: 5px 10px #0e0e0e;
 }

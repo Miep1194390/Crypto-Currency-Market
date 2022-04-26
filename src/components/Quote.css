@@ -1,0 +1,61 @@
+.Main3 {
+    background-color: #303030;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+}
+
+
+.H1Quote {
+    color: rgb(66,141,251);
+    text-shadow: #0e0e0e 10px 0 10px; 
+    font-size: 194px;
+    display: flex;
+    justify-content: left;
+    font-family: "Mallory", sans-serif;
+    align-items: center;
+}
+
+.H2Quote {
+    color: #303030;
+    background-color: rgb(66,141,251);
+    font-size: 161px;
+    display: flex;
+    justify-content: left;
+    font-family: "Mallory", sans-serif;
+    align-items: center;
+    width: 100%;
+    height: 35%;
+
+}
+
+.H3Quote {
+    color: rgb(66,141,251);
+    text-shadow: #0e0e0e 10px 0 10px; 
+    font-family: "Mallory", sans-serif;
+    font-size: 120px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.H3Quote:hover, .H1Quote:hover {
+    color: white;
+}
+
+.H2Quote:hover {
+    background-color: white;
+}
+
+.OuterQuotes {
+    display: flex;
+    justify-content: center;
+}
+
+.InnerImageQuotes {
+    padding: 5%;
+}
+
+
+
+

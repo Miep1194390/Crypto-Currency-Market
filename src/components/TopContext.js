@@ -7,7 +7,7 @@ function TopContext() {
     <div className="Main">
     <div className="Header">
       
-      <img src={mirzaselimovichoofd} alt="Mirza Selimovic Head"></img>
+      <img className="TopContextImg" src={mirzaselimovichoofd} alt="Mirza Selimovic Head"></img>
 
       <div>
       <h1 className="HeadH1">About me</h1>
