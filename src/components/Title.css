@@ -5,8 +5,14 @@
     justify-content: center;
     align-items: baseline;
     padding: 1em;
-    background-color: rgb(129, 18, 219);
+    background-color: rgb(66,141,251);
     color: #fff;
+    text-decoration: none;
+    text-shadow: #303030 10px 0 10px;
+}
+
+.ATitle {
+  text-decoration: none;
 }
 
 .H1Title:hover {

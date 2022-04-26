@@ -5,7 +5,8 @@ function Title() {
 
   return (
     <div className='Title'>
-        <h1 className='H1Title'>Mirza Selimovic</h1>
+      <h1 className='H1Title'><a className='ATitle' href=''>MirzaSelimovic.nl</a></h1>
+
     </div>
   )
 }
