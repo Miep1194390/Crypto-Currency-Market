@@ -9,14 +9,15 @@ function Languages() {
           <div className="HeaderLanguages">Project Management & Digital Production</div>
           <div className="MiddleLanguages">Turning ideas into effective, on-brand deliverables.</div>
       </div>
-      <div className="GreyContainer">
+      <div className="GreyContainer2">
           <div className="HeaderLanguages">Web Application Development</div>
           <div className="MiddleLanguages">Building applications online, unlike software programs.</div>
       </div>
-      <div className="GreyContainer">
+      <div className="GreyContainer3">
           <div className="HeaderLanguages">UX Designer & UI Designer</div>
           <div className="MiddleLanguages">Creating innovative, efficient designs.</div>
       </div>
+      
     </div>
   );
 }

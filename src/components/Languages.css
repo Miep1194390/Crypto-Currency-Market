@@ -17,7 +17,23 @@
     background-color: white;
     width: 20%;
     height: 300px;
-    border-radius: 50%;
+    border-radius: 43% 57% 70% 30% / 54% 33% 67% 46% ;
+    align-items: center;
+}
+
+.GreyContainer2 {
+    background-color: white;
+    width: 20%;
+    height: 300px;
+    border-radius: 60% 40% 67% 33% / 44% 41% 59% 56% ;
+    align-items: center;
+}
+
+.GreyContainer3 {
+    background-color: white;
+    width: 20%;
+    height: 300px;
+    border-radius: 26% 74% 43% 57% / 56% 73% 27% 44%;
     align-items: center;
 }
 

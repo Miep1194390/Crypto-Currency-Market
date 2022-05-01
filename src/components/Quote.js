@@ -4,6 +4,7 @@ import vraag from "../pictures/vraag.png";
 
 function Quote() {
   return (
+    
     <div className="Main3">
       <div className="OuterQuotes">
         <div className="HOuter">
