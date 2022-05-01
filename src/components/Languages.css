@@ -1,10 +1,44 @@
+
 .MainLanguages {
-    height: 50vh;
-    background-color: #303030;
+    height: 80vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background:
+    linear-gradient(to bottom, #dfe3ee, rgba(255, 255, 255, 0)),
+    url('https://images.pexels.com/photos/1261427/pexels-photo-1261427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
-.MyFavorite {
-    color: white;
-    font-family: "Mallory", sans-serif;
+.GreyContainer {
+    background-color: white;
+    width: 20%;
+    height: 300px;
+    border-radius: 50%;
+    align-items: center;
+}
+
+.HeaderLanguages {
+    display: flex;
+    justify-content: center;
+    color: black;
     font-size: 30px;
+    line-height: 1.2em;
+    text-shadow: #0e0e0e 0px 0 20px;
+    text-align: center;
+    align-items: center;
+    margin-top: 20%;
+}
+
+.MiddleLanguages {
+    display: flex;
+    justify-content: center;
+    color: gray;
+    font-size: 25px;
+    line-height: 1.2em;
+    text-shadow: gray 0px 0 20px;
+    text-align: center;
 }
