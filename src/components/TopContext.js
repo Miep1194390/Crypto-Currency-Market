@@ -5,6 +5,7 @@ import mirzaselimovichoofd from "../pictures/mirzaselimovichoofd.png";
 function TopContext() {
   return (
     <div className="Main">
+            <div className="TopContextHeader">W</div>
     <div className="Header">
       
       <img className="TopContextImg" src={mirzaselimovichoofd} alt="Mirza Selimovic Head"></img>

@@ -10,7 +10,7 @@ import Languages from "./components/Languages";
 function App() {
   return (
     <div className="App">
-      <Title></Title>
+      {/* <Title></Title> */}
       <TopContext></TopContext>
       <Quote></Quote>
       <PersonalInfo></PersonalInfo>

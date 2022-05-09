@@ -1,5 +1,13 @@
 @import url('http://fonts.cdnfonts.com/css/mallory');
 
+.TopContextHeader {
+  font-size: 30px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  height: 10vh;
+  align-items: flex-end;
+}
 .Header {
   padding: 5%;
   width: 100%;
@@ -50,4 +58,3 @@
  -o-background-size: cover;
  background-size: cover; 
 }
-
